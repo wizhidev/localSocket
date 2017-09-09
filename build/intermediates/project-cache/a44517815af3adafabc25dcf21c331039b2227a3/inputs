@@ -1,6 +1,0 @@
-COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
-FILE_PATH=/Users/hwp/work/eton_prj/smart_house_prj/source_demo/localSocket/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar
-FILE_HASH=f1079af62fdb1eaceb3c4d262134e1aefccb670b
-DX_VERSION=1.13
-JUMBO_MODE=true
-OPTIMIZE=true

@@ -1,0 +1,41 @@
+
+{
+	"buildFiles" : 
+	[
+		"/Users/hwp/work/eton_prj/smart_house_prj/source_demo/localSocket/app/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"/Users/hwp/work/Library/Android/android-sdk-macosx/cmake/3.6.3155560/bin/cmake --build /Users/hwp/work/eton_prj/smart_house_prj/source_demo/localSocket/app/.externalNativeBuild/cmake/debug/mips --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"native-lib-Debug-mips" : 
+		{
+			"abi" : "mips",
+			"artifactName" : "native-lib",
+			"buildCommand" : "/Users/hwp/work/Library/Android/android-sdk-macosx/cmake/3.6.3155560/bin/cmake --build /Users/hwp/work/eton_prj/smart_house_prj/source_demo/localSocket/app/.externalNativeBuild/cmake/debug/mips --target native-lib",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=mipsel-none-linux-android --gcc-toolchain=/Users/hwp/work/Library/Android/android-sdk-macosx/ndk-bundle/toolchains/mips64el-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/hwp/work/Library/Android/android-sdk-macosx/ndk-bundle/sysroot  -Dnative_lib_EXPORTS -isystem /Users/hwp/work/Library/Android/android-sdk-macosx/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/hwp/work/Library/Android/android-sdk-macosx/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/mips/include -isystem /Users/hwp/work/Library/Android/android-sdk-macosx/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem /Users/hwp/work/Library/Android/android-sdk-macosx/ndk-bundle/sysroot/usr/include/mipsel-linux-android -D__ANDROID_API__=15 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mips32 -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/hwp/work/eton_prj/smart_house_prj/source_demo/localSocket/app/src/main/cpp/native-lib.cpp",
+					"workingDirectory" : "/Users/hwp/work/eton_prj/smart_house_prj/source_demo/localSocket/app/.externalNativeBuild/cmake/debug/mips"
+				}
+			],
+			"output" : "/Users/hwp/work/eton_prj/smart_house_prj/source_demo/localSocket/app/build/intermediates/cmake/debug/obj/mips/libnative-lib.so",
+			"toolchain" : "7775908594685799093"
+		}
+	},
+	"toolchains" : 
+	{
+		"7775908594685799093" : 
+		{
+			"cCompilerExecutable" : "/Users/hwp/work/Library/Android/android-sdk-macosx/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/hwp/work/Library/Android/android-sdk-macosx/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}

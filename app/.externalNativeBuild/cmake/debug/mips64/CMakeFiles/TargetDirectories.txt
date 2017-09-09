@@ -1,0 +1,3 @@
+/Users/hwp/work/eton_prj/smart_house_prj/source_demo/localSocket/app/.externalNativeBuild/cmake/debug/mips64/CMakeFiles/edit_cache.dir
+/Users/hwp/work/eton_prj/smart_house_prj/source_demo/localSocket/app/.externalNativeBuild/cmake/debug/mips64/CMakeFiles/rebuild_cache.dir
+/Users/hwp/work/eton_prj/smart_house_prj/source_demo/localSocket/app/.externalNativeBuild/cmake/debug/mips64/CMakeFiles/native-lib.dir

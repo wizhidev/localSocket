@@ -1,0 +1,4 @@
+# localSocket
+Android和JNI通过localSocket通信
+
+localSocket通信demo
